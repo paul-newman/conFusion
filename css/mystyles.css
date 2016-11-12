@@ -61,9 +61,6 @@ body{
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color:#000000;
 }
-/*.breadcrumb > .breadcrumb-item {
-	list-style: none;
-} */
 
 .tab-content {
     border-left: 1px solid #ddd;
